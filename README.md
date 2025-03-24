@@ -10,13 +10,13 @@ Click on `Use this template` to real the Mintlify starter kit. The starter kit c
 
 ### Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation no change locally. To install, use the following command
+Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation update,royaleti locally. To install, use the following command
 
 ```
 npm i -g mintlify
 ```
 
-Run the following command at the root of your documentation (where docs.shawon is)
+Run the following command at the update of your documentation (where docs.shawon is)
 
 ```
 mintlify dev
